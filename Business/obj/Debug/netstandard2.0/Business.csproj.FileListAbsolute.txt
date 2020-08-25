@@ -1,0 +1,9 @@
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\Business\obj\Debug\netstandard2.0\Business.pdb
