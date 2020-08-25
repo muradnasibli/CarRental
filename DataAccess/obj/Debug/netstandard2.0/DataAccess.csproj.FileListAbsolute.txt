@@ -6,3 +6,9 @@ C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard
 C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Murad-PC\source\repos\CarRentalsWebApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
