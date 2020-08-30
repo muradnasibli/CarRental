@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{5163B699-F728-4950-ABFE-FA163B3E5BDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentals.WebApi", "CarRentals.WebApi\CarRentals.WebApi.csproj", "{AFD390F5-A3ED-4CD5-9AD7-24C1AFEB2643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentals.WebApi", "CarRentals.WebApi\CarRentals.WebApi.csproj", "{AFD390F5-A3ED-4CD5-9AD7-24C1AFEB2643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentals.UI", "CarRentals.UI\CarRentals.UI.csproj", "{D20C9AAE-459A-451C-9344-EAAA3E858977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AFD390F5-A3ED-4CD5-9AD7-24C1AFEB2643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD390F5-A3ED-4CD5-9AD7-24C1AFEB2643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD390F5-A3ED-4CD5-9AD7-24C1AFEB2643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20C9AAE-459A-451C-9344-EAAA3E858977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20C9AAE-459A-451C-9344-EAAA3E858977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20C9AAE-459A-451C-9344-EAAA3E858977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20C9AAE-459A-451C-9344-EAAA3E858977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
