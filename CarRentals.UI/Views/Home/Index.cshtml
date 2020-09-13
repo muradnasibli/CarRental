@@ -1,4 +1,4 @@
-﻿@{
+﻿@model IEnumerable<Entities.Concrete.CarInformation>
     ViewData["Title"] = "Home Page";
 }
 
@@ -19,11 +19,10 @@
                         <div class="row align-items-center">
                             <div class="mb-3 mb-md-0 col-md-3">
                                 <select name="" id="" class="custom-select form-control">
-                                    <option value="">City</option>
-                                    <option value="">Ferrari</option>
-                                    <option value="">Toyota</option>
-                                    <option value="">Ford</option>
-                                    <option value="">Lamborghini</option>
+                                    @foreach (var item in Model)
+                                    {
+                                        <option value="@item.CityId">@item.City.Name</option>                                        
+                                    }
                                 </select>
                             </div>
                             <div class="mb-3 mb-md-0 col-md-3">

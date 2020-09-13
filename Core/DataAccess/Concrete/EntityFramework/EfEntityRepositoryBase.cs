@@ -50,6 +50,19 @@ namespace Core.DataAccess.Concrete.EntityFramework
             }
         }
 
+        public IQueryable<TEntity> Include(params Expression<Func<TEntity, object>>[] expressions)
+        {
+            using (TContext context = new TContext())
+            {
+                IQueryable<TEntity> set = context.Set<TEntity>();
+                foreach (var includeExpressions in expressions)
+                {
+                    set = set.Include(includeExpressions);
+                }
+                return set;
+            }
+        }
+
         public void Update(TEntity entity)
         {
             using (TContext context = new TContext())

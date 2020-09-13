@@ -4,6 +4,7 @@ using Entities.Concrete;
 using Entities.DomainModel;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Business.Concrete
@@ -28,6 +29,9 @@ namespace Business.Concrete
         public List<CarInformation> GetAll()
         {
             return _carInfoDal.GetList();
+            //return _carInfoDal.Include(x => x.Ban, x => x.City, x => x.Color,
+            //                                x => x.Condition, x => x.Description, x => x.Image,
+            //                                        x => x.Make, x => x.Model, x => x.Transmission).ToList();
         }
 
         public CarInformation GetById(int carId)
